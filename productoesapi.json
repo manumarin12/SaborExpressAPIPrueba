@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1,
+    "nombre": "Hamburguesa Clásica",
+    "descripcion": "Hamburguesa con queso",
+    "precio": 5.99,
+    "restauranteId": 1,
+    "imagenUrl": "https://images.unsplash.com/photo-1550547660-d9450f859349"
+  },
+  {
+    "id": 2,
+    "nombre": "Pizza Margherita",
+    "descripcion": "Pizza con tomate y albahaca",
+    "precio": 8.5,
+    "restauranteId": 2,
+    "imagenUrl": "https://images.unsplash.com/photo-1601924582971-b549cf52358e"
+  },
+  {
+    "id": 3,
+    "nombre": "Sushi Roll",
+    "descripcion": "Roll de sushi variado",
+    "precio": 12.0,
+    "restauranteId": 3,
+    "imagenUrl": "https://images.unsplash.com/photo-1592194996308-7f07c1d54a82"
+  },
+  {
+    "id": 4,
+    "nombre": "Ensalada César",
+    "descripcion": "Ensalada con pollo y aderezo",
+    "precio": 7.25,
+    "restauranteId": 4,
+    "imagenUrl": "https://images.unsplash.com/photo-1604908177520-4291f9f02d35"
+  },
+  {
+    "id": 5,
+    "nombre": "Tacos de Pollo",
+    "descripcion": "Tacos con pollo y salsa",
+    "precio": 6.5,
+    "restauranteId": 5,
+    "imagenUrl": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38"
+  },
+  {
+    "id": 6,
+    "nombre": "Pasta Carbonara",
+    "descripcion": "Pasta con salsa carbonara",
+    "precio": 9.75,
+    "restauranteId": 6,
+    "imagenUrl": "https://images.unsplash.com/photo-1572441711563-1b6a940d6ded"
+  },
+  {
+    "id": 7,
+    "nombre": "Burrito de Carne",
+    "descripcion": "Burrito con carne y frijoles",
+    "precio": 7.5,
+    "restauranteId": 7,
+    "imagenUrl": "https://images.unsplash.com/photo-1552332386-f8dd00dc2f47"
+  },
+  {
+    "id": 8,
+    "nombre": "Sopa de Mariscos",
+    "descripcion": "Sopa con mariscos frescos",
+    "precio": 11.0,
+    "restauranteId": 8,
+    "imagenUrl": "https://images.unsplash.com/photo-1570301510268-d8e39536b87b"
+  },
+  {
+    "id": 9,
+    "nombre": "Sandwich Vegetariano",
+    "descripcion": "Sandwich con vegetales",
+    "precio": 5.0,
+    "restauranteId": 9,
+    "imagenUrl": "https://images.unsplash.com/photo-1542737047-1e3b3cb8a67b"
+  },
+  {
+    "id": 10,
+    "nombre": "Paella Valenciana",
+    "descripcion": "Paella con mariscos y pollo",
+    "precio": 15.0,
+    "restauranteId": 10,
+    "imagenUrl": "https://images.unsplash.com/photo-1556909211-369138e3e30c"
+  },
+  {
+    "id": 11,
+    "nombre": "Helado de Vainilla",
+    "descripcion": "Helado artesanal de vainilla",
+    "precio": 3.5,
+    "restauranteId": 11,
+    "imagenUrl": "https://images.unsplash.com/photo-1589712095687-20ebedeea6b3"
+  },
+  {
+    "id": 12,
+    "nombre": "Nachos con Queso",
+    "descripcion": "Nachos con queso fundido",
+    "precio": 4.25,
+    "restauranteId": 12,
+    "imagenUrl": "https://images.unsplash.com/photo-1552332385-abc4d91b5317"
+  },
+  {
+    "id": 13,
+    "nombre": "Filete de Res",
+    "descripcion": "Filete con guarnición",
+    "precio": 14.75,
+    "restauranteId": 13,
+    "imagenUrl": "https://images.unsplash.com/photo-1601924582971-b549cf52358e"
+  },
+  {
+    "id": 14,
+    "nombre": "Empanadas de Pollo",
+    "descripcion": "Empanadas rellenas de pollo",
+    "precio": 3.75,
+    "restauranteId": 14,
+    "imagenUrl": "https://images.unsplash.com/photo-1565299426966-1132e8826c1a"
+  },
+  {
+    "id": 15,
+    "nombre": "Rollos de Primavera",
+    "descripcion": "Rollos fritos con vegetales",
+    "precio": 5.5,
+    "restauranteId": 15,
+    "imagenUrl": "https://images.unsplash.com/photo-1572276596235-daa01feee492"
+  },
+  {
+    "id": 16,
+    "nombre": "Hamburguesa Grande",
+    "descripcion": "Amburguesa con doble de pollo",
+    "precio": 50.0,
+    "restauranteId": 1,
+    "imagenUrl": "https://images.unsplash.com/photo-1550547660-d9450f859349"
+  }
+]
