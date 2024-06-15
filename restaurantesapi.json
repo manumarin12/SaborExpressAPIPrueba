@@ -1,257 +1,57 @@
 [
     {
         "id": 1,
-        "nombre": "La Parrilla Gourmet",
-        "descripcion": "Restaurante especializado en carnes",
-        "direccion": "Calle 123, Ciudad, País",
-        "telefono": "123-456-7890",
-        "fechaRegistro": "2023-01-15T12:30:00",
-        "imagenUrl": "https://cdn.pixabay.com/photo/2016/03/05/19/02/hamburger-1238246_960_720.jpg",
-        "horarios": [
-            {
-                "id": 1,
-                "diaSemana": "Lunes",
-                "horaApertura": "08:00:00",
-                "horaCierre": "22:00:00"
-            }
-        ]
+        "nombre": "El Buen Sabor",
+        "descripcion": "Restaurante familiar con una gran variedad de platillos caseros.",
+        "telefono": "55512345",
+        "costoEnvio": 2.99,
+        "imgPerfil": "https://cdn.pixabay.com/photo/2020/01/17/16/42/food-4773380_640.jpg",
+        "imgPortada": "https://cdn.pixabay.com/photo/2021/02/06/19/29/pancakes-5989136_640.jpg",
+        "fechaRegistro": "2023-01-15T00:00:00",
+        "cantidadLikes": 5
     },
     {
         "id": 2,
-        "nombre": "Sabor a Mar",
-        "descripcion": "Pescados y mariscos frescos",
-        "direccion": "Avenida Marítima 456, Ciudad",
-        "telefono": "234-567-8901",
-        "fechaRegistro": "2023-02-20T14:00:00",
-        "imagenUrl": "https://cdn.pixabay.com/photo/2016/03/05/19/37/appetizer-1238460_960_720.jpg",
-        "horarios": [
-            {
-                "id": 2,
-                "diaSemana": "Martes",
-                "horaApertura": "08:00:00",
-                "horaCierre": "22:00:00"
-            }
-        ]
+        "nombre": "Pizzeria La Italia",
+        "descripcion": "Auténtica pizza italiana hecha en horno de leña.",
+        "telefono": "55556789",
+        "costoEnvio": 3.5,
+        "imgPerfil": "https://cdn.pixabay.com/photo/2017/12/09/08/18/pizza-3007395_1280.jpg",
+        "imgPortada": "https://cdn.pixabay.com/photo/2024/05/09/20/15/ai-generated-8751738_640.png",
+        "fechaRegistro": "2023-02-10T00:00:00",
+        "cantidadLikes": 2
     },
     {
         "id": 3,
-        "nombre": "Veggie Delight",
-        "descripcion": "Comida vegetariana y vegana",
-        "direccion": "Plaza Verde 789, Ciudad",
-        "telefono": "345-678-9012",
-        "fechaRegistro": "2023-03-10T10:00:00",
-        "imagenUrl": "https://cdn.pixabay.com/photo/2016/11/18/14/05/brick-wall-1834784_960_720.jpg",
-        "horarios": [
-            {
-                "id": 3,
-                "diaSemana": "Miércoles",
-                "horaApertura": "08:00:00",
-                "horaCierre": "22:00:00"
-            }
-        ]
+        "nombre": "Sushi Zen",
+        "descripcion": "Delicioso sushi y platos japoneses en un ambiente tranquilo.",
+        "telefono": "55587654",
+        "costoEnvio": 4,
+        "imgPerfil": "",
+        "imgPortada": "https://cdn.pixabay.com/photo/2015/01/12/00/16/sushi-596930_640.jpg",
+        "fechaRegistro": "2023-03-20T00:00:00",
+        "cantidadLikes": 3
     },
     {
         "id": 4,
-        "nombre": "Italia Bella",
-        "descripcion": "Cocina italiana auténtica",
-        "direccion": "Via Roma 101, Ciudad",
-        "telefono": "456-789-0123",
-        "fechaRegistro": "2023-04-05T18:45:00",
-        "imagenUrl": "https://cdn.pixabay.com/photo/2017/09/30/15/10/pasta-2802332_960_720.jpg",
-        "horarios": [
-            {
-                "id": 4,
-                "diaSemana": "Jueves",
-                "horaApertura": "08:00:00",
-                "horaCierre": "22:00:00"
-            }
-        ]
+        "nombre": "La Parrilla Argentina",
+        "descripcion": "Carne a la parrilla al estilo argentino, con los mejores cortes.",
+        "telefono": "55543218",
+        "costoEnvio": 5,
+        "imgPerfil": "https://cdn.pixabay.com/photo/2014/10/16/17/23/sushi-491425_640.jpg",
+        "imgPortada": "https://cdn.pixabay.com/photo/2013/06/09/06/07/meat-123668_640.jpg",
+        "fechaRegistro": "2023-04-05T00:00:00",
+        "cantidadLikes": 5
     },
     {
         "id": 5,
-        "nombre": "Sushi Time",
-        "descripcion": "Sushi y comida japonesa",
-        "direccion": "Calle Sushi 202, Ciudad",
-        "telefono": "567-890-1234",
-        "fechaRegistro": "2023-05-22T19:30:00",
-        "imagenUrl": "https://cdn.pixabay.com/photo/2016/11/29/08/25/chopsticks-1869959_960_720.jpg",
-        "horarios": [
-            {
-                "id": 5,
-                "diaSemana": "Viernes",
-                "horaApertura": "08:00:00",
-                "horaCierre": "23:00:00"
-            }
-        ]
-    },
-    {
-        "id": 6,
-        "nombre": "Tacos y Tequila",
-        "descripcion": "Auténtica comida mexicana",
-        "direccion": "Avenida México 303, Ciudad",
-        "telefono": "678-901-2345",
-        "fechaRegistro": "2023-06-12T13:20:00",
-        "imagenUrl": "https://cdn.pixabay.com/photo/2017/08/30/12/45/guacamole-2691418_960_720.jpg",
-        "horarios": [
-            {
-                "id": 6,
-                "diaSemana": "Sábado",
-                "horaApertura": "09:00:00",
-                "horaCierre": "23:00:00"
-            }
-        ]
-    },
-    {
-        "id": 7,
-        "nombre": "Bistro Paris",
-        "descripcion": "Cocina francesa y vinos",
-        "direccion": "Calle París 404, Ciudad",
-        "telefono": "789-012-3456",
-        "fechaRegistro": "2023-07-08T15:15:00",
-        "imagenUrl": "https://cdn.pixabay.com/photo/2014/04/10/11/24/eiffel-tower-321216_960_720.jpg",
-        "horarios": [
-            {
-                "id": 7,
-                "diaSemana": "Domingo",
-                "horaApertura": "09:00:00",
-                "horaCierre": "22:00:00"
-            }
-        ]
-    },
-    {
-        "id": 8,
-        "nombre": "Asador Argentino",
-        "descripcion": "Parrilla argentina",
-        "direccion": "Avenida Libertad 505, Ciudad",
-        "telefono": "890-123-4567",
-        "fechaRegistro": "2023-08-19T20:00:00",
-        "imagenUrl": "https://cdn.pixabay.com/photo/2014/08/05/10/30/steak-409994_960_720.jpg",
-        "horarios": [
-            {
-                "id": 8,
-                "diaSemana": "Lunes",
-                "horaApertura": "08:00:00",
-                "horaCierre": "22:00:00"
-            }
-        ]
-    },
-    {
-        "id": 9,
-        "nombre": "Delicias Peruanas",
-        "descripcion": "Platos típicos peruanos",
-        "direccion": "Calle Perú 606, Ciudad",
-        "telefono": "901-234-5678",
-        "fechaRegistro": "2023-09-11T17:30:00",
-        "imagenUrl": "https://cdn.pixabay.com/photo/2017/10/29/18/13/ceviche-2891618_960_720.jpg",
-        "horarios": [
-            {
-                "id": 9,
-                "diaSemana": "Martes",
-                "horaApertura": "08:00:00",
-                "horaCierre": "22:00:00"
-            }
-        ]
-    },
-    {
-        "id": 10,
-        "nombre": "Café Central",
-        "descripcion": "Cafetería y repostería",
-        "direccion": "Plaza Mayor 707, Ciudad",
-        "telefono": "012-345-6789",
-        "fechaRegistro": "2023-10-03T08:45:00",
-        "imagenUrl": "https://cdn.pixabay.com/photo/2017/09/07/17/24/coffee-2725624_960_720.jpg",
-        "horarios": [
-            {
-                "id": 10,
-                "diaSemana": "Miércoles",
-                "horaApertura": "08:00:00",
-                "horaCierre": "22:00:00"
-            }
-        ]
-    },
-    {
-        "id": 11,
-        "nombre": "Pizza Fiesta",
-        "descripcion": "Pizzería y pastas",
-        "direccion": "Avenida Italia 808, Ciudad",
-        "telefono": "123-456-7891",
-        "fechaRegistro": "2023-11-21T12:00:00",
-        "imagenUrl": "https://cdn.pixabay.com/photo/2017/01/03/11/33/pizza-1949183_960_720.jpg",
-        "horarios": [
-            {
-                "id": 11,
-                "diaSemana": "Jueves",
-                "horaApertura": "08:00:00",
-                "horaCierre": "22:00:00"
-            }
-        ]
-    },
-    {
-        "id": 12,
-        "nombre": "Burger House",
-        "descripcion": "Hamburguesas gourmet",
-        "direccion": "Calle Burger 909, Ciudad",
-        "telefono": "234-567-8902",
-        "fechaRegistro": "2023-12-01T13:30:00",
-        "imagenUrl": "https://cdn.pixabay.com/photo/2014/10/19/20/59/hamburger-494706_960_720.jpg",
-        "horarios": [
-            {
-                "id": 12,
-                "diaSemana": "Viernes",
-                "horaApertura": "08:00:00",
-                "horaCierre": "23:00:00"
-            }
-        ]
-    },
-    {
-        "id": 13,
-        "nombre": "India Spice",
-        "descripcion": "Comida india tradicional",
-        "direccion": "Avenida Ganges 1010, Ciudad",
-        "telefono": "345-678-9013",
-        "fechaRegistro": "2024-01-15T19:00:00",
-        "imagenUrl": "https://cdn.pixabay.com/photo/2015/07/02/20/37/vegetables-828795_960_720.jpg",
-        "horarios": [
-            {
-                "id": 13,
-                "diaSemana": "Sábado",
-                "horaApertura": "09:00:00",
-                "horaCierre": "23:00:00"
-            }
-        ]
-    },
-    {
-        "id": 14,
-        "nombre": "Tapas y Vino",
-        "descripcion": "Tapas y vinos españoles",
-        "direccion": "Plaza España 1111, Ciudad",
-        "telefono": "456-789-0124",
-        "fechaRegistro": "2024-02-22T21:00:00",
-        "imagenUrl": "https://cdn.pixabay.com/photo/2017/07/16/10/43/food-2508668_960_720.jpg",
-        "horarios": [
-            {
-                "id": 14,
-                "diaSemana": "Domingo",
-                "horaApertura": "09:00:00",
-                "horaCierre": "22:00:00"
-            }
-        ]
-    },
-    {
-        "id": 15,
-        "nombre": "Oriental Express",
-        "descripcion": "Comida china y asiática",
-        "direccion": "Calle Asia 1212, Ciudad",
-        "telefono": "567-890-1235",
-        "fechaRegistro": "2024-03-10T18:00:00",
-        "imagenUrl": "https://cdn.pixabay.com/photo/2014/07/31/23/03/asian-407828_960_720.jpg",
-        "horarios": [
-            {
-                "id": 15,
-                "diaSemana": "Lunes",
-                "horaApertura": "08:00:00",
-                "horaCierre": "22:00:00"
-            }
-        ]
+        "nombre": "Veggie Delight",
+        "descripcion": "Comida vegana saludable y deliciosa.",
+        "telefono": "55567812",
+        "costoEnvio": 2.5,
+        "imgPerfil": "https://cdn.pixabay.com/photo/2022/02/12/21/22/toast-7009956_1280.jpg",
+        "imgPortada": "https://cdn.pixabay.com/photo/2021/10/13/16/09/vegan-salad-6707020_640.jpg",
+        "fechaRegistro": "2023-05-10T00:00:00",
+        "cantidadLikes": 1
     }
 ]
