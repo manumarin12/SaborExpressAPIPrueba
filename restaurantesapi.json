@@ -27,7 +27,7 @@
         "descripcion": "Delicioso sushi y platos japoneses en un ambiente tranquilo.",
         "telefono": "55587654",
         "costoEnvio": 4,
-        "imgPerfil": "",
+        "imgPerfil": "https://cdn.pixabay.com/photo/2014/10/16/17/23/sushi-491425_640.jpg",
         "imgPortada": "https://cdn.pixabay.com/photo/2015/01/12/00/16/sushi-596930_640.jpg",
         "fechaRegistro": "2023-03-20T00:00:00",
         "cantidadLikes": 3
@@ -38,7 +38,7 @@
         "descripcion": "Carne a la parrilla al estilo argentino, con los mejores cortes.",
         "telefono": "55543218",
         "costoEnvio": 5,
-        "imgPerfil": "https://cdn.pixabay.com/photo/2014/10/16/17/23/sushi-491425_640.jpg",
+        "imgPerfil": "https://cdn.pixabay.com/photo/2015/12/04/15/48/steak-1076665_640.jpg",
         "imgPortada": "https://cdn.pixabay.com/photo/2013/06/09/06/07/meat-123668_640.jpg",
         "fechaRegistro": "2023-04-05T00:00:00",
         "cantidadLikes": 5
